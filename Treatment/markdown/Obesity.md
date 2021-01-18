@@ -1,0 +1,112 @@
+# Obesity
+
+In general, overweight and obesity indicate a weight greater than what is healthy. Obesity is a chronic condition defined by an excess amount of body fat. A certain amount of body fat is necessary for storing energy, heat insulation, shock absorption, and other functions.
+
+Body mass index best defines obesity. A person's height and weight determines his or her body mass index. The body mass index (BMI) equals a person's weight in kilograms (kg) divided by their height in meters (m) squared (more information will be found later in the article). Since BMI describes body weight relative to height, there is a strong correlation with total body fat content in adults. An adult who has a BMI of 25-29.9 is overweight, and an adult who has a BMI over 30 is obese. A person with a BMI of 18.5-24.9 has a normal weight. A person is morbidly obese (extreme obesity) if his or her BMI is over 40.
+
+## Diagnosis
+
+As part of regular well-child care, the doctor calculates your child's BMI and determines where it falls on the BMI-for-age growth chart. The BMI helps indicate if your child is overweight for his or her age and height.
+
+Using the growth chart, your doctor determines your child's percentile, meaning how your child compares with other children of the same sex and age. For example, if your child is in the 80th percentile, it means that compared with other children of the same sex and age, 80 percent have a lower weight or BMI.
+
+Cutoff points on these growth charts, established by the Centers for Disease Control and Prevention, help identify children who are overweight and obese:
+
+    1. BMI between 85th and 94th percentiles — overweight
+    2. BMI 95th percentile or above — obesity
+
+Because BMI doesn't consider things such as being muscular or having a larger than average body frame and because growth patterns vary greatly among children, your doctor also factors in your child's growth and development. This helps determine whether your child's weight is a health concern.
+
+In addition to BMI and charting weight on the growth charts, the doctor evaluates:
+
+    1. Your family's history of obesity and weight-related health problems, such as diabetes
+    2. Your child's eating habits
+    3. Your child's activity level
+    4. Other health conditions your child has
+    5. Psychosocial history, including incidences of depression, sleep disturbances, and sadness and whether your child feels isolated or alone or is the target of bullying
+
+**Blood tests**
+
+Your child's doctor might order blood tests if he or she finds that your child is obese. These tests might include:
+
+    1. A cholesterol test
+    2. A blood sugar test
+    3. Other blood tests to check for hormone imbalances, vitamin D deficiency or other conditions associated with obesity
+
+Some of these tests require that your child not eat or drink anything before the test. Ask if your child needs to fast before a blood test and for how long.
+
+## Treatment
+
+The goal of obesity treatment is to reach and stay at a healthy weight. This improves your overall health and lowers your risk of developing complications related to obesity. You may need to work with a team of health professionals — including a dietitian, behavioral counselor or an obesity specialist — to help you understand and make changes in your eating and activity habits.
+
+The initial treatment goal is usually a modest weight loss — 5% to 10% of your total weight. That means that if you weigh 200 pounds (91 kg) and have obesity by BMI standards, you would need to lose only about 10 to 20 pounds (4.5 to 9 kg) for your health to begin to improve. However, the more weight you lose, the greater the benefits.
+
+All weight-loss programs require changes in your eating habits and increased physical activity. The treatment methods that are right for you depend on your obesity severity, your overall health and your willingness to participate in your weight-loss plan.
+
+**Dietary changes**
+
+Reducing calories and practicing healthier eating habits are vital to overcoming obesity. Although you may lose weight quickly at first, steady weight loss over the long term is considered the safest way to lose weight and the best way to keep it off permanently.
+
+Avoid drastic and unrealistic diet changes, such as crash diets, because they're unlikely to help you keep excess weight off for the long term.
+
+Plan to participate in a comprehensive weight-loss program for at least six months and in the maintenance phase of a program for at least a year to boost your odds of weight-loss success.
+
+There is no best weight-loss diet. Choose one that includes healthy foods that you feel will work for you. Dietary changes to treat obesity include:
+
+    **Cutting calories**. The key to weight loss is reducing how many calories you take in. The first step is to review your typical eating and drinking habits to see how many calories you normally consume and where you can cut back. You and your doctor can decide how many calories you need to take in each day to lose weight, but a typical amount is 1,200 to 1,500 calories for women and 1,500 to 1,800 for men.
+    Feeling full on less. Some foods — such as desserts, candies, fats and processed foods — contain a large amount of calories for a small portion. In contrast, fruits and vegetables provide a larger portion size with fewer calories. By eating larger portions of foods that have fewer calories, you reduce hunger pangs, take in fewer calories and feel better about your meal, which contributes to how satisfied you feel overall.
+    Making healthier choices. To make your overall diet healthier, eat more plant-based foods, such as fruits, vegetables and whole-grain carbohydrates. Also emphasize lean sources of protein — such as beans, lentils and soy — and lean meats. If you like fish, try to include fish twice a week. Limit salt and added sugar. Eat small amounts of fats, and make sure they come from heart-healthy sources, such as olive, canola and nut oils.
+    **Restricting certain foods**. Certain diets limit the amount of a particular food group, such as high-carbohydrate or full-fat foods. Ask your doctor which diet plans have been found effective and which might be helpful for you. Drinking sugar-sweetened beverages is a sure way to consume more calories than you intended, and limiting these drinks or eliminating them altogether is a good place to start cutting calories.
+    **Meal replacements**. These plans suggest that you replace one or two meals with their products — such as low-calorie shakes or meal bars — and eat healthy snacks and a healthy, balanced third meal that's low in fat and calories. In the short term, this type of diet can help you lose weight. Keep in mind that these diets likely won't teach you how to change your overall lifestyle, though, so you may have to keep this up if you want to keep your weight off.
+
+Be wary of quick fixes. You may be tempted by fad diets that promise fast and easy weight loss. The reality, however, is that there are no magic foods or quick fixes. Fad diets may help in the short term, but the long-term results don't appear to be any better than other diets.
+
+Similarly, you may lose weight on a crash diet, but you're likely to regain it when you stop the diet. To lose weight — and keep it off — you have to adopt healthy-eating habits that you can maintain over time.
+**Exercise and activity**
+
+Increased physical activity or exercise is an essential part of obesity treatment. Most people who are able to maintain their weight loss for more than a year get regular exercise, even simply walking.
+
+To boost your activity level:
+
+    **Exercise**. People with obesity need to get at least 150 minutes a week of moderate-intensity physical activity to prevent further weight gain or to maintain the loss of a modest amount of weight. To achieve more-significant weight loss, you may need to exercise 300 minutes or more a week. You probably will need to gradually increase the amount you exercise as your endurance and fitness improve.
+    Keep moving. Even though regular aerobic exercise is the most efficient way to burn calories and shed excess weight, any extra movement helps burn calories. Making simple changes throughout your day can add up to big benefits. Park farther from store entrances, rev up your household chores, garden, get up and move around periodically, and wear a pedometer to track how many steps you actually take over the course of a day. A nice recommended goal is to try to reach 10,000 steps every day. Gradually increase the amount of steps to reach that goal.
+
+**Behavior changes**
+
+A behavior modification program can help you make lifestyle changes and lose weight and keep it off. Steps to take include examining your current habits to find out what factors, stresses or situations may have contributed to your obesity.
+
+Everyone is different and has different obstacles to managing weight, such as a lack of time to exercise or late-night eating. Tailor your behavior changes to address your individual concerns.
+
+Behavior modification, sometimes called behavior therapy, can include:
+
+    **Counseling**. Talking with a mental health professional can help you address emotional and behavioral issues related to eating. Therapy can help you understand why you overeat and learn healthy ways to cope with anxiety. You can also learn how to monitor your diet and activity, understand eating triggers, and cope with food cravings. Counseling can be one-on-one or in a group. More-intensive programs — those that include 12 to 26 sessions a year — may be more helpful in achieving your weight-loss goals.
+    **Support groups**. You can find camaraderie and understanding in support groups where others share similar challenges with obesity. Check with your doctor, local hospitals or commercial weight-loss programs for support groups in your area.
+
+**Prescription weight-loss medication**
+
+Losing weight requires a healthy diet and regular exercise. But in certain situations, prescription weight-loss medication may help.
+
+Keep in mind, though, that weight-loss medication is meant to be used along with diet, exercise and behavior changes, not instead of them. The main purpose of weight-loss medications, also known as anti-obesity medications, is to help you to stick to a low-calorie diet by stopping the hunger and lack of fullness signals that appear when trying to lose weight.
+
+Your doctor may recommend weight-loss medication if other diet and exercise programs haven't worked and you meet one of these criteria:
+
+    Your body mass index (BMI) is 30 or greater
+    Your BMI is greater than 27, and you also have medical complications of obesity, such as diabetes, high blood pressure or sleep apnea
+
+Before selecting a medication for you, your doctor will consider your health history, as well as possible side effects. Some weight-loss medications can't be used by women who are pregnant or by people who take certain medications or have chronic health conditions.
+
+Anti-obesity medications approved by the Food and Drug Administration (FDA) include:
+
+    Orlistat (Alli, Xenical)
+    Phentermine and topiramate (Qsymia)
+    Bupropion and naltrexone (Contrave)
+    Liraglutide (Saxenda, Victoza)
+
+You'll need close medical monitoring while taking a prescription weight-loss medication. Also, keep in mind that a weight-loss medication may not work for everyone, and the effects may wane over time. When you stop taking a weight-loss medication, you may regain much or all of the weight you lost.
+Endoscopic procedures for weight loss
+
+These types of procedures don't require any incisions in your skin. After you receive anesthesia, flexible tubes and tools are inserted through your mouth and down your throat into your stomach.
+
+There are several different types of endoscopic procedures used for weight loss. One procedure involves placing stitches in your stomach to reduce its size and the amount of food you can comfortably consume. In another endoscopic procedure, doctors insert a small balloon into your stomach. The balloon is filled with water to reduce the amount of space available in your stomach. This helps you feel fuller faster.
+
+These procedures are usually approved for people with BMIs of 30 or above when diet and exercise alone have not been successful. The expected weight loss varies among procedures from 5% to 20% of total body weight loss.
